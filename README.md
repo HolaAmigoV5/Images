@@ -1,7 +1,0 @@
-# Images
-## DataStructure
-
-## DotNet
-
-## MySQL
-
